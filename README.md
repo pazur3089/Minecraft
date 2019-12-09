@@ -1,2 +1,1 @@
-# Minecraft
-ComputerCraft programs
+Lua programs for computer craft
